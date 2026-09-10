@@ -1,0 +1,12 @@
+*
+!*/
+
+# track this file
+!.gitignore
+
+# whitelist
+!eng/**
+!lang/**
+!lore/**
+!names/**
+!speech/**
