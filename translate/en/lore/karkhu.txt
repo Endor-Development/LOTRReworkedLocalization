@@ -1,7 +1,7 @@
 #by Kurunir
 #title:Gift from Karkhu
 #author:{name:lossoth_female}
-#types:forochel, forodwaith
+#types:forochel
 #reward
 #Especially for the LotrReworked project
 

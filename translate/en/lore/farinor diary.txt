@@ -1,7 +1,7 @@
 #by Kurunir
 #title:Farinor's Diary
 #author:Farinor of Arnor
-#types:forochel, forodwaith, eriador
+#types:forochel,eriador
 #Especially for the LotrReworked project
 #All dates are taken from RingCraft posts
 

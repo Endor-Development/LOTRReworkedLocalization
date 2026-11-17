@@ -1,7 +1,7 @@
 #by Kurunir
 #title:卡尔库的礼物
 #author:{name:lossoth_female}
-#types:forochel, forodwaith
+#types:forochel
 #reward
 #Especially for the LotrReworked project
 

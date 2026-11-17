@@ -1,7 +1,7 @@
 #by Kurunir
 #title:The Lands of the Ice Bay
 #author:Torgrim, a Cardolan scientist
-#types:forochel, forodwaith, eriador
+#types:forochel,eriador
 #Especially for the LotrReworked project
 #The book was written around 1350 of the Third Age, before the devastation of Cardolan. The fate of the author is unknown, most likely he died, never reaching the Lossoth settlements.
 

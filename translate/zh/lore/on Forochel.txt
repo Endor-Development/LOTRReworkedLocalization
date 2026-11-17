@@ -1,7 +1,7 @@
 #by Kurunir
 #title:冰湾之地
 #author:{name:lossoth_female}
-#types:forochel, forodwaith, eriador
+#types:forochel,eriador
 #Especially for the LotrReworked project
 
 这本书写于1350年左右，是在卡多蓝被摧毁之前的第三

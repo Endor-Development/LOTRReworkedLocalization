@@ -1,7 +1,7 @@
 #by Kurunir
 #title:The Legend of the Fire Trees
 #author:{name:lossoth_male}
-#types:forochel, forodwaith
+#types:forochel
 #reward
 #Especially for the LotrReworked project
 

@@ -2,7 +2,7 @@
 #
 #title:钢铁的传说
 #author:{name:dwarf_male}
-#types:wind_dwarf
+#types:wind_dwarf,red_dwarf,dark_dwarf
 #
 在一个定居点里住着一位铁
 匠，他的锻造工艺很厉害。

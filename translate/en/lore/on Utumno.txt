@@ -1,7 +1,7 @@
 #by Kurunir
 #title:Gorge of Terror
 #author:{name:lossoth_male}
-#types:forochel, forodwaith
+#types:forochel
 #reward
 #Especially for the LotrReworked project
 

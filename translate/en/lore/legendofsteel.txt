@@ -2,7 +2,7 @@
 #
 #title:The Legend of Orocarni Steel
 #author:{name:dwarf_male}
-#types:wind_dwarf, red_dwarf, dark_dwarf
+#types:wind_dwarf,red_dwarf,dark_dwarf
 #
 The blacksmith lived in one settlement. He forged well. Many merchants of our clans came to him for axes, sharper than the teeth of dragons and armor that are stronger than our rocks and mountains.
 
